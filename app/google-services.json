@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963963104377",
+    "firebase_url": "https://utubetools-3e27c-default-rtdb.firebaseio.com",
+    "project_id": "utubetools-3e27c",
+    "storage_bucket": "utubetools-3e27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963963104377:android:232c982e67d4ff3d7378a8",
+        "android_client_info": {
+          "package_name": "com.gabrielkaiki.utubetools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963963104377-9rfe82cnhaq9o0om9n4lugt98bg9nvd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabrielkaiki.utubetools",
+            "certificate_hash": "b5cc27ddbb667ee20e9042c638d6ab71f4e9c8fb"
+          }
+        },
+        {
+          "client_id": "963963104377-5hnoquan3sgngl4ocd1g9qv94a3ck0qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeb5oeTIuvMWUPqp8xDBlJ2ysYy-92w7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963963104377-19utperlningh2mbqqkam3eg3c762cr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
